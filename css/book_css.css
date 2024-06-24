@@ -1,0 +1,11 @@
+*{
+    display: grid;
+}
+.booking{
+    flex: 0.5 4 41rem;
+    display: grid;
+}
+.container{
+   
+    flex: 0.5 4 41rem; ;
+}
